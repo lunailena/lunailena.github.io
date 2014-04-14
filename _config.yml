@@ -1,0 +1,31 @@
+auto: true
+blah: Hello
+
+brigade:
+    name: Luna Ilena 
+    city: Grand Haven
+    meetup-link: "http://www.meetup.com/Friendly-Code"
+    google-group: "https://groups.google.com/forum/?fromgroups#!forum/friendly-code"
+    github: "https://github.com/friendlycode"
+    mailchimp: "http://eepurl.com/ouJJf"
+    facebook: "https://www.facebook.com/friendlycodegr"
+
+content:
+    title: Luna Ilena | A landscaping company that puts you first.
+    contact: "Donna is looking forward to hearing from you, email her at: (<a href=\"mailto:lunailena@lunailena.com\">lunailena@lunailena.com</a>."
+    banner: ./images/Banner.jpg
+    banner-large: "/images/Banner-500-progressive.jpg"
+    banner-small: "/images/Banner-300-progressive.jpg"
+    projects:
+      - name: Viget, a Grand Rapids local wiki
+        content: "<a href='http://viget.org'>Viget</a>, a Grand Rapids local wiki. To contribute to Viget, check out the <a href=\"http://viget.org/Guide\">Getting Started</a> guide."
+
+      - name: GRMade, a directory of Grand Rapids makers
+        content: "<a href='http://grmade.org'>GRMade</a>, a directory of Grand Rapids makers."
+
+      - name: Have an Idea?
+        content: "Have an Idea? <a href='https://groups.google.com/forum/?fromgroups#!forum/friendly-code'>Join our Google Group</a> and share your thoughts."
+
+google-analytics:
+    use: false
+    code: 9999999
