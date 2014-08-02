@@ -4,11 +4,9 @@ blah: Hello
 brigade:
     name: Luna Ilena 
     city: Grand Haven
-    meetup-link: "http://www.meetup.com/Friendly-Code"
-    google-group: "https://groups.google.com/forum/?fromgroups#!forum/friendly-code"
-    github: "https://github.com/friendlycode"
+    github: "https://github.com/lunailena"
     mailchimp: "http://eepurl.com/ouJJf"
-    facebook: "https://www.facebook.com/friendlycodegr"
+    facebook: "https://www.facebook.com/lunailena"
 
 content:
     title: Luna Ilena | A landscaping company that puts you first.
@@ -17,14 +15,14 @@ content:
     banner-large: "/images/Banner-500-progressive.jpg"
     banner-small: "/images/Banner-300-progressive.jpg"
     projects:
-      - name: Viget, a Grand Rapids local wiki
-        content: "<a href='http://viget.org'>Viget</a>, a Grand Rapids local wiki. To contribute to Viget, check out the <a href=\"http://viget.org/Guide\">Getting Started</a> guide."
+      - name: Landscaping 
+        content: "Luna Ilena is a premier landscape design firm, we strive to make the perfect design that is both maintanable and suitable for your specific needs."
 
-      - name: GRMade, a directory of Grand Rapids makers
-        content: "<a href='http://grmade.org'>GRMade</a>, a directory of Grand Rapids makers."
+      - name: Maintenence
+        content: "We can provide full service maintenence of your garden beds and make sure your landscaping looks great every season."
 
-      - name: Have an Idea?
-        content: "Have an Idea? <a href='https://groups.google.com/forum/?fromgroups#!forum/friendly-code'>Join our Google Group</a> and share your thoughts."
+      - name: Custom Design
+        content: "Have an Idea? Let us help you make your idea a reality."
 
 google-analytics:
     use: false
